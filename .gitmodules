@@ -10,3 +10,6 @@
 [submodule "ccip-masterclass-3/lib/openzeppelin-contracts"]
 	path = ccip-masterclass-3/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "CrossChainNFT/lib/forge-std"]
+	path = CrossChainNFT/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
