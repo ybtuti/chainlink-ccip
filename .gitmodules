@@ -1,3 +1,12 @@
 [submodule "ccip-masterclass-3/lib/forge-std"]
 	path = ccip-masterclass-3/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ccip-masterclass-3/lib/ccip"]
+	path = ccip-masterclass-3/lib/ccip
+	url = https://github.com/smartcontractkit/ccip
+[submodule "ccip-masterclass-3/lib/chainlink"]
+	path = ccip-masterclass-3/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "ccip-masterclass-3/lib/openzeppelin-contracts"]
+	path = ccip-masterclass-3/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
