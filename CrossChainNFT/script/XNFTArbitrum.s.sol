@@ -9,7 +9,7 @@ contract DeployXNFTArbitrum is Script {
         uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
         vm.startBroadcast(deployerPrivateKey);
 
-        address ccipRouterAddressArbitrumSepolia = 0xe4Dd3B16E09c016402585a8aDFdB4A18f772a07e;
+        address ccipRouterAddressArbitrumSepolia = 0x2a9C5afB0d0e4BAb2BCdaE109EC4b0c4Be15a165;
         address linkTokenAddressArbitrumSepolia = 0xb1D4538B4571d411F07960EF2838Ce337FE1E80E;
         uint64 chainSelectorArbitrumSepolia = 3478487238524512106;
 
