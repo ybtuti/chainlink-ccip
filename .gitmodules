@@ -13,3 +13,18 @@
 [submodule "CrossChainNFT/lib/forge-std"]
 	path = CrossChainNFT/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "CCIP_Local_Forked/lib/forge-std"]
+	path = CCIP_Local_Forked/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "CCIP_Local_Forked/lib/chainlink-brownie-contracts"]
+	path = CCIP_Local_Forked/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "CCIP_Local_Forked/lib/ccip"]
+	path = CCIP_Local_Forked/lib/ccip
+	url = https://github.com/smartcontractkit/ccip
+[submodule "CCIP_Local_Forked/lib/openzeppelin-contracts"]
+	path = CCIP_Local_Forked/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "CCIP_Local_Forked/lib/chainlink-local"]
+	path = CCIP_Local_Forked/lib/chainlink-local
+	url = https://github.com/smartcontractkit/chainlink-local
